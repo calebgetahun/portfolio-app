@@ -19,8 +19,7 @@ class App extends Component {
       education : profileData.education,
       skills : profileData.skills,
       interests : profileData.interests,
-      projects : profileData.projects,
-      extracurriculars: profileData.extracurriculars
+      projects : profileData.projects
     };
 
     ReactGA.initialize('UA-158818625-1');

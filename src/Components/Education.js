@@ -5,7 +5,6 @@ class Education extends Component {
     super(props);
 
     this.education = props.education;
-    this.extracurriculars = props.extracurriculars;
   }
 
   render() {
@@ -33,16 +32,6 @@ class Education extends Component {
           <div className="subheading mb-3">{"Duke Cubing Club, Vice President of Education and Organization"}</div>
           <div className="subheading mb-3">{"National Society of Black Engineers (NSBE), Member"}</div>
           <div className="subheading mb-3">{"The Chanticleer: Duke’s Yearbook, Photographer"}</div>
-          {/* {
-            this.extracurriculars.map((data, index) => (
-              <div key={index} className="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
-                <div className="resume-content">
-                  <h3 className="mb-0">{data.clubwithpos}</h3>
-                  <p>{data.aboutclub}</p>
-                </div>
-              </div>
-            ))
-          }       */}
         </div>
       </section>
     );

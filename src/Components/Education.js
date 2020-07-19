@@ -26,10 +26,6 @@ class Education extends Component {
               </div>
             ))
           }
-          
-          <h3 className="mb-0">Relevant Coursework</h3>
-          <div className="subheading mb-3">{"Data Structures & Algorithms, Computer Architecture, Computational Methods in Engineering, Fundamentals of Electrical and Computer Engineering, Linear Algebra and Differential Equations, Ordinary and Partial Differential Equations, Statistics and Probability, Artificial Intelligence for All"}</div>
-
           <div>
             <h3 className="mb-0"> Clubs and Extracurriculars</h3>
             <div className="subheading mb-3">{"Duke Ethiopian/Eritrean Student Transnational Association (DESTA), current Co-President, former VP and Freshman Liason"}</div>

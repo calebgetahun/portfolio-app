@@ -99,10 +99,6 @@
 			"projectDetails": "Developed an iOS application using Swift to enable users to share notes from a variety of classes. This was inspired from struggling to get the classes wanted during registration period and missing out on the content.",
 			"techused": "Swift, Firebase iOS SDK for Database and Authentication, Cloud storage, Mobile App Dev"
 
-		},
-		{	"title":"COVID-19 in your area: A contact tracing application",
-			"projectDetails": "Utilizing user provided information about virus diagnosis and symptoms to enable users to see if there are local coronavirus cases in their area.",
-			"techused": "Swift, Xcode, Mapbox API, Firebase iOS SDK"
 		}
         
 	]

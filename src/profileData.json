@@ -12,14 +12,14 @@
 		{
 				"position": "Software Engineer Intern",
 				"organization": "Duke Office of Information Technology",
-				"aboutWork": "Currently working with a team from around the world to develop an augmented reality iOS application for Duke Basketball's history museum. Through the use of Swift and Xcode, along with libraries such as ARKit an ScneneKit, we will be improving the user experience of the thousands of basketball fans that come to witness the illustrious Duke basketball team.",
+				"aboutWork": "Currently working with a team to develop an augmented reality iOS application for the Duke Basketball museum. Through the use of Swift and Xcode, along with libraries such as ARKit an ScneneKit, we will be improving the user experience of the thousands of basketball fans that come to witness the illustrious Duke basketball team.",
 				"fromDate": "May 2020",
 				"toDate": "August 2020"
 		},
 		{
 			"position": "R&D Machine Learning Assistant",
 			"organization": "Duke Neurobiology: NeuroDisney Lab",
-			"aboutWork": "Working under Anita Disney and Jeff Beck of Duke Neurobiology, I am in the process of training and testing unsupervised machine learning models using a variety of statistical analysis techniques (Principal component analysis (PCA), Non-negative matrix factorization, Latent Dirichlet Allocation, K-means clustering, etc.) to aid in accurate cell counting and computation. I have also looked at and written MATLAB scripts in conjunction with our iterations on PLDAPS, a toolbox used to study the visual systems of awake, behaving primates by aiding in data collection and analysis. ",
+			"aboutWork": "In the process of training and testing unsupervised machine learning models using a variety of statistical analysis techniques (Principal component analysis (PCA), Non-negative matrix factorization, Latent Dirichlet Allocation, K-means clustering, etc.) to aid in accurate cell counting and computation. I have also looked at and written MATLAB scripts in conjunction with our iterations on PLDAPS, a toolbox used to study the visual systems of awake, behaving primates by aiding in data collection and analysis.",
 			"fromDate": "September 2019",
 			"toDate": "Present"
 		},
@@ -33,7 +33,7 @@
         {
 			"position": "Incoming Teaching Assistant for EGR 103L: Computational Methods in Engineering (Python)",
 			"organization": "Duke Pratt School of Engineering",
-			"aboutWork": "Will assist professor Michael Gustafson in helping students in this introduction to computer algorithms through engineering methods and numerical analysis. Topics include numerical integration, roots of equations, simultaneous equation solving, finite difference methods, matrix analysis, linear programming, dynamic programming, and heuristic solutions used in engineering practice.",
+			"aboutWork": " ",
 			"fromDate": "August 2020",
 			"toDate": " "
 		}
@@ -92,7 +92,7 @@
 		},
 		{
 			"title": "A* Path Finding Algorithm Visualization using Pygame",
-			"projectDetails": "Implemented the A* graph traveral search algorithm to allow the user to view an implementation of the shortest path between two nodes being connected. I later implemented a Pygame GUI to engage the viewer with a visual.",
+			"projectDetails": "Implemented the A* graph traveral search algorithm to allow the user to view an implementation of the shortest path between two nodes. I later implemented a Pygame GUI to engage the viewer with a visual.",
 			"techused": "Python, Pygame, Graph Traversals, Shortest Path Algorithms"
 		},
 		{	"title":"iOS NoteSharing App",

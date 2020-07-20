@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import cubes from '../Assets/rubikscubes.jpeg';
+import origami from '../Assets/origami.jpeg';
 
 class Interests extends Component {
   constructor(props) {
@@ -15,6 +17,13 @@ class Interests extends Component {
           <p>{this.interests.paragraphOne}</p>
           <p>{this.interests.paragraphTwo}</p>
           <p> {this.interests.paragraphThree}</p>
+          <div className="row">
+            <div className="col-6">
+              {/* <img className="img-fluid img-profile rounded-circle mx-auto mb-2" src={cubes} alt=""></img> */}
+              <img className="img-fluid" src={cubes} alt="cubes"></img>
+              <img className="img-fluid" src={origami} alt="origami"></img>
+            </div>
+          </div>
         </div>
       </section>
     );

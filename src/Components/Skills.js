@@ -1,4 +1,7 @@
 import React, { Component } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGit, faHtml5, faCss3, faSwift, faMatlab, faFlask, faPytorch } from "@fortawesome/free-brands-svg-icons";
+import {faPython, faJava, faC, faJavascript} from '@fortawesome/free-solid-svg-icons';
 
 class Skills extends Component {
   constructor(props) {

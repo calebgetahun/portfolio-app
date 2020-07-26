@@ -29,7 +29,7 @@ class Education extends Component {
           <div>
             <h3 className="mb-0"> Clubs and Extracurriculars</h3>
             <div className="subheading mb-3">{"HackDuke, Planning Committee – Outreach Team"}</div>
-            <div className="subheading mb-3">{"The Chanticleer: Duke’s Yearbook, Photographer"}</div>
+            <div className="subheading mb-3">{"Duke Ethiopian/Eritrean Student Transnational Association (DESTA), current Co-President, former VP and Freshman Liason"}</div>
             <div className="subheading mb-3">{"Duke Cubing Club, Vice President of Education and Organization"}</div>
             <div className="subheading mb-3">{"National Society of Black Engineers (NSBE), Member"}</div>
             <div className="subheading mb-3">{"The Chanticleer: Duke’s Yearbook, Photographer"}</div>

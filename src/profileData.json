@@ -3,7 +3,7 @@
 		"firstName": "Caleb",
 		"lastName": " Getahun",
 		"phoneNumber": "(301) 828-0305",
-		"bio": "I am a junior at Duke University studying Computer Science w/ a minor in Math. I have interests in iOS app development, web development, and machine learning. The application of these fields to computational neuroscience and education are what I'm currently involved in!",
+		"bio": "I am a junior at Duke University pursuing a double major in Computer Science and Mathematics. I have interests in iOS app development, web development, and machine learning. The application of these fields to computational neuroscience and education are what I'm currently involved in!",
     "email": "caleb.getahun@duke.edu",
     "linkedin": "https://linkedin.com/in/calebgetahun",
 		"github": "https://github.com/calebgetahun"
@@ -29,18 +29,11 @@
 			"aboutWork": "Assist students in problem solving techniques in topics relating to matrix operations, linear transformations, and solving differential equations. Help with homework and practice questions as well as prepare them for assessments while participating in professional development and working towards CRLA Tutor Certification. Beginning during the Fall 2020 semester, I will be assisting students in Data Structures and Algorithms, learning about basic and advanced data structures such as arrays, linkedlists, stacks, queues, trees, graphs, etc.",
 			"fromDate": "January 2020",
 			"toDate": "Present"
-        },
-        {
-			"position": "Incoming Teaching Assistant for EGR 103L: Computational Methods in Engineering (Python)",
-			"organization": "Duke Pratt School of Engineering",
-			"aboutWork": " ",
-			"fromDate": "August 2020",
-			"toDate": " "
-		}
+        }
 	],
 	"education": [{
 			"university": "Duke University",
-			"degree": "B.S. in Computer Science with a minor in Mathematics, David M. Rubenstein Scholar",
+			"degree": "B.S. in Computer Science, B.A. in Mathematics, David M. Rubenstein Scholar",
 			"fromDate": "August 2018",
 			"toDate": "Present"
 		}

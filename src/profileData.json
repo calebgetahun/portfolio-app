@@ -61,10 +61,10 @@
 
 	],
 	"skills": [{
-			"proficient": "Proficient: Python, Swift, Matlab, Git"
+			"proficient": "Proficient: Python, Java, Swift, Matlab, Git"
 		},
 		{
-			"familiar": "Familiar: Java, C, Javascript, HTML/CSS, Flask, Pytorch"
+			"familiar": "Familiar: C, Javascript, HTML/CSS, Flask, Pytorch"
 		}
 		
 	],

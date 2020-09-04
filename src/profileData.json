@@ -12,7 +12,7 @@
 		{
 				"position": "Software Engineer Intern",
 				"organization": "Duke Office of Information Technology",
-				"aboutWork": "Currently working with a team to develop an augmented reality iOS application for the Duke Basketball museum. Through the use of Swift and Xcode, along with libraries such as ARKit an ScneneKit, we will be improving the user experience of the thousands of basketball fans that come to witness the illustrious Duke basketball team.",
+				"aboutWork": "Developed and deployed an iOS augmented reality app with 5 other developers for the Duke Athletics Office to engage the 1000+ visitors annually that come to learn more about the Duke Basketball Team.",
 				"fromDate": "May 2020",
 				"toDate": "August 2020"
 		},
@@ -24,9 +24,9 @@
 			"toDate": "Present"
 		},
 		{
-			"position": "Peer Tutor in: Linear Algebra and Differential Equations; Incoming Peer Tutor in: Data Structures & Algorithms",
+			"position": "Peer Tutor in Data Structures & Algorithms in Java, Linear Algebra and Differential Equations",
 			"organization": "Duke Academic Resource Center",
-			"aboutWork": "Assist students in problem solving techniques in topics relating to matrix operations, linear transformations, and solving differential equations. Help with homework and practice questions as well as prepare them for assessments while participating in professional development and working towards CRLA Tutor Certification. Beginning during the Fall 2020 semester, I will be assisting students in Data Structures and Algorithms, learning about basic and advanced data structures such as arrays, linkedlists, stacks, queues, trees, graphs, etc.",
+			"aboutWork": "Currently tutoring students in CS 201: Data Structures and Algorithms in Java with a focus on basic and advanced data structures, object oriented programming, and algorithmic problem solving techniques. I've previously tutored in Linear Algebra and Differential Equations aiding in in topics relating to matrix operations, linear transformations, and solving differential equations.",
 			"fromDate": "January 2020",
 			"toDate": "Present"
         }
@@ -76,12 +76,12 @@
 	"projects": [{
 			"title":"Media Bias Detection using Natural Language Processing (NLP)",
 			"projectDetails": "Utilized Natural Language Processing to determine bias in popular news sources (Buzzfeed, Fox News). Created 3 Word2vec language models (leftist, rightist, centrist) to analyze word associations as well as 2 small scale Finetune GPT-2 models to generate text based on the sentiments of these sources.",
-			"techused": "Python, Pytorch, Word2vec Gensim library, GPT-2 library, Google Colab, Pandas"
+			"techused": "Utilized: Python, Pytorch, Word2vec Gensim library, GPT-2 library, Google Colab, Pandas"
 		},
 		{
 			"title": "Augmented Reality iOS Basketball Game",
 			"projectDetails":"Created AR Basketball Game that enables user to play live basketball with features to change the location of the hoop and customize their set up.",
-			"techused": "Swift, Xcode, ARKit, SceneKit"
+			"techused": "Utilized: Swift, Xcode, ARKit, SceneKit"
 		},
 		{
 			"title": "A* Path Finding Algorithm Visualization using Pygame",
@@ -90,7 +90,7 @@
 		},
 		{	"title":"iOS NoteSharing App",
 			"projectDetails": "Developed an iOS application using Swift to enable users to share notes from a variety of classes. This was inspired from struggling to get the classes wanted during registration period and missing out on the content.",
-			"techused": "Swift, Firebase iOS SDK for Database and Authentication, Cloud storage, Mobile App Dev"
+			"techused": "Utilize: Swift, Firebase iOS SDK for Database and Authentication, Cloud storage, Mobile App Dev"
 
 		}
         

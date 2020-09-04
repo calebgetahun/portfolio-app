@@ -86,11 +86,11 @@
 		{
 			"title": "A* Path Finding Algorithm Visualization using Pygame",
 			"projectDetails": "Implemented the A* graph traveral search algorithm to allow the user to view an implementation of the shortest path between two nodes. I later implemented a Pygame GUI to engage the viewer with a visual.",
-			"techused": "Python, Pygame, Graph Traversals, Shortest Path Algorithms"
+			"techused": "Utilized: Python, Pygame, Graph Traversals, Shortest Path Algorithms"
 		},
 		{	"title":"iOS NoteSharing App",
 			"projectDetails": "Developed an iOS application using Swift to enable users to share notes from a variety of classes. This was inspired from struggling to get the classes wanted during registration period and missing out on the content.",
-			"techused": "Utilize: Swift, Firebase iOS SDK for Database and Authentication, Cloud storage, Mobile App Dev"
+			"techused": "Utilized: Swift, Firebase iOS SDK for Database and Authentication, Cloud storage, Mobile App Development"
 
 		}
         
